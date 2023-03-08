@@ -344,3 +344,23 @@
   text-decoration: none;
   color: #fff;
 }
+
+
+/* ----------- Footer------------------------ */
+footer {
+  height: 15vh;
+  background-color: #ffa4a4;
+  margin-top: 15px;
+}
+
+.footer-class {
+  display: flex;
+  justify-content: center;
+  font-weight: 600;
+  font-size: 1.1rem;
+  align-items: center;
+}
+
+.content-footer {
+  padding: 2%;
+}
