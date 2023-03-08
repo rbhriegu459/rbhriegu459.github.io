@@ -40,7 +40,7 @@ body::-webkit-scrollbar-thumb {
 /* =================== Landing Page =================== */
 
 .hero {
-  height: fit-content;
+  height:auto;
   background: linear-gradient(to right, rgb(246, 56, 151, 0.1), #fff);
 }
 
