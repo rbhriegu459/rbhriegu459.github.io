@@ -801,3 +801,47 @@ footer {
 
 
 /* ========== RESPONSIVE ============== */
+@media screen and (max-width: 600px) {
+
+
+  .main-landing{
+    display: table-row;
+    width: fit-content;
+    align-items: center;
+    width: 100%;
+  }
+
+  .skills-head, .photo-bg{
+    margin: 10%;
+  }
+
+  .responsive-table{
+    display: table-row;
+    margin: 3rem;
+    align-items: center;
+  }
+
+
+  .skills-container{
+    margin-top: 2%;
+    display: table-row;
+    align-items: center;
+  }
+
+  .education{
+    display: none;
+  }
+
+  .project-section-main{
+    display: table-row;
+  }
+
+  #contact_me{
+    display: table-row;
+    text-align: center;
+  }
+
+  .contact-links{
+    width: 100%;
+  }
+}
